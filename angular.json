@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "day2lab1"
+    }
+  },
+  "defaultProject": "day2lab1",
+  "cli": {
+    "analytics": "a4f47761-107a-4ffd-bd48-d0dfac747ec4"
+  }
 }
